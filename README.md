@@ -1,73 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+HELLO MICROVERSE
 
-> Description the project.
+> The goal of this project is to set up a "Hello Microverse" repository. The project is to help me enhance my mastery of all the tools and best practices that I have learned so far at Microverse.
 
+> The mastery of GitHub Actions and Linter configurations are the core of this project.
 
-## Built With
+> The project was Built With:
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Linters & Github actions
 
-## Live Demo (if available)
+> Author
 
-[Live Demo Link](https://livedemo.com)
+👤 Ayodeji Abidemi
 
+- GitHub: [@githubhandle](https://github.com/demix007)
+- Twitter: [@twitterhandle](https://twitter.com/Dat_dope_demix)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/AyodejiAbidemi)
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+> 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/demix007/HELLO_MICROVERSE_PROJECT/issues).
 
-## Show your support
+> Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
+📝 License
 
 This project is [MIT](./MIT.md) licensed.
