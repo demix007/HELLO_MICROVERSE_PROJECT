@@ -17,7 +17,7 @@ HELLO MICROVERSE
 
 - GitHub: [@githubhandle](https://github.com/demix007)
 - Twitter: [@twitterhandle](https://twitter.com/Dat_dope_demix)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/AyodejiAbidemi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ayodeji-abidemi-b76935218)
 
 > 🤝 Contributing
 
